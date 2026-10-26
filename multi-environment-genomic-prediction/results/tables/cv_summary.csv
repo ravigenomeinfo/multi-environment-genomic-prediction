@@ -1,0 +1,13 @@
+"design","model","r","r_tgv","sd_r","n_fits"
+"CV1_new_lines","M1",0.436,0.617,0.188,10
+"CV2_tested_elsewhere","M1",0.422,0.612,0.213,10
+"CV0_new_environment","M2",0.502,0.654,0.138,5
+"CV1_new_lines","M2",0.442,0.559,0.176,10
+"CV2_tested_elsewhere","M2",0.498,0.652,0.194,10
+"CV1_new_lines","M3",0.489,0.655,0.17,10
+"CV2_tested_elsewhere","M3",0.544,0.737,0.178,10
+"CV1_new_lines","M4",0.432,0.567,0.216,10
+"CV2_tested_elsewhere","M4",0.515,0.693,0.198,10
+"CV0_new_environment","M5",0.498,0.644,0.123,5
+"CV1_new_lines","M5",0.487,0.649,0.165,10
+"CV2_tested_elsewhere","M5",0.539,0.731,0.18,10

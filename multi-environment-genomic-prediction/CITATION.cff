@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "multi-environment-genomic-prediction: single- and multi-environment genomic prediction workflow"
+type: software
+authors:
+  - family-names: "YourLastName"
+    given-names: "YourFirstName"
+license: MIT
+repository-code: "https://github.com/ravigenomeinfo/multi-environment-genomic-prediction"
+date-released: "2026-10-26"

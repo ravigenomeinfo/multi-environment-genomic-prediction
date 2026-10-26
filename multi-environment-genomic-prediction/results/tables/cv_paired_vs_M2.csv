@@ -1,0 +1,10 @@
+"design","model","mean_diff_vs_M2","se","n_units","frac_units_better"
+"CV1_new_lines","M1",-0.006,0.015,10,0.4
+"CV1_new_lines","M3",0.047,0.012,10,1
+"CV1_new_lines","M4",-0.01,0.038,10,0.7
+"CV1_new_lines","M5",0.045,0.011,10,1
+"CV2_tested_elsewhere","M1",-0.076,0.016,10,0.1
+"CV2_tested_elsewhere","M3",0.046,0.008,10,1
+"CV2_tested_elsewhere","M4",0.017,0.02,10,0.7
+"CV2_tested_elsewhere","M5",0.041,0.007,10,1
+"CV0_new_environment","M5",-0.004,0.007,5,0.4

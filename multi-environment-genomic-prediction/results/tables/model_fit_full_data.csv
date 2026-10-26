@@ -1,0 +1,5 @@
+"model","description","logLik","AIC","BIC","converged"
+"M2","M2 main effect",-75.8,161.61,183.59,TRUE
+"M3","M3 main + diag GxE",-62.55,135.09,157.08,TRUE
+"M4","M4 unstructured",-54.65,119.3,141.28,TRUE
+"M5","M5 main + kernel GxE",-62.01,134.01,156,TRUE
